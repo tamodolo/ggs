@@ -12,7 +12,7 @@ R. You will need Python 3.x to actualy run the code and pyQT 5.x for the GUI
 
 Q. can I run this without the GUI?
 
-R. No. This is a early development program so there are no plans for that
+R. No. This is an early development program so there are no plans for that
 
 Q. How it works?
 

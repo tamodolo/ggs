@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-02-23 11:33+Hora oficial do Brasil\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp1252\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: D:\GitHub\ggs\ggs.py:28
+msgid "Ready"
+msgstr ""
+
+#: D:\GitHub\ggs\ggs.py:32
+msgid "Open File"
+msgstr ""
+
+#: D:\GitHub\ggs\ggs.py:33 D:\GitHub\ggs\ggs.py:34
+msgid "Open your game list here"
+msgstr ""
+
+#: D:\GitHub\ggs\ggs.py:40
+msgid "Your next game will be showed here"
+msgstr ""
+
+#: D:\GitHub\ggs\ggs.py:50
+msgid "Open List"
+msgstr ""
+
+#: D:\GitHub\ggs\ggs.py:54
+msgid "Start to play "
+msgstr ""
+
+#: D:\GitHub\ggs\ggs.py:60
+msgid "set program language to English"
+msgstr ""
+
+#: D:\GitHub\ggs\ggs.py:63
+msgid "set program language to Brazilian Portuguese"
+msgstr ""
+
+#: D:\GitHub\ggs\ggs.py:74
+msgid "Options"
+msgstr ""
+
+#: D:\GitHub\ggs\ggs.py:75
+msgid "Language"
+msgstr ""
+

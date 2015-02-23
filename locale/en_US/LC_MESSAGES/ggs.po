@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-02-23 11:33+Hora oficial do Brasil\n"
+"PO-Revision-Date: 2015-02-23 11:47-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.7.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#: D:\GitHub\ggs\ggs.py:28
+msgid "Ready"
+msgstr "Ready"
+
+#: D:\GitHub\ggs\ggs.py:32
+msgid "Open File"
+msgstr "Open File"
+
+#: D:\GitHub\ggs\ggs.py:33 D:\GitHub\ggs\ggs.py:34
+msgid "Open your game list here"
+msgstr "Open your game list here"
+
+#: D:\GitHub\ggs\ggs.py:40
+msgid "Your next game will be showed here"
+msgstr "Your next game will be showed here"
+
+#: D:\GitHub\ggs\ggs.py:50
+msgid "Open List"
+msgstr "Open List"
+
+#: D:\GitHub\ggs\ggs.py:54
+msgid "Start to play "
+msgstr "Start to play"
+
+#: D:\GitHub\ggs\ggs.py:60
+msgid "set program language to English"
+msgstr "set program language to English"
+
+#: D:\GitHub\ggs\ggs.py:63
+msgid "set program language to Brazilian Portuguese"
+msgstr "set program language to Brazilian Portuguese"
+
+#: D:\GitHub\ggs\ggs.py:74
+msgid "Options"
+msgstr "Options"
+
+#: D:\GitHub\ggs\ggs.py:75
+msgid "Language"
+msgstr "Language"
